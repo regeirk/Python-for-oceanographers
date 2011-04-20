@@ -1,0 +1,30 @@
+PYTHON FOR OCEANOGRAPHERS
+
+The content in this repository aims to give an introduction to the Python
+programming language for oceanographic data analysis applications, especially
+in science. It provides full documentation, source code and data to a possible
+4-day short course. The course is still in its early infancy and will initially
+be written for a Portuguese speaking audience with future English translation
+to be provided.
+
+Python is a powerful dynamic programming language and an affordable and
+open source alternative to commercial scientific analysis software like
+Matlab(R) or IDL(R). Although there are other open source alternatives for
+data analysis and statistics like Octave, Scilab, R or GDL, for example, Python
+is a very portable, flexible, concise, easy reading, extensible, interactive,
+multi-platform and increasingly popular programming language. Even with a broad
+range of books and tutorials on Python available for reference, online and
+off-line, there still is a lack in references for the oceanographic community.
+
+This guide and all in it contained source code does not provide a complete
+introduction to computer programming but rather an example-driven applied
+approach. For an introduction to computer programming there is Allen Downey's
+'Think Python: how to think like a computer scientist' and other online
+options, for example. The guide is divided into five chapters in which the first
+is for self-study and to get Python installed and the first programmes working.
+The following 4 chapters are intended to be used as accompanying text to a
+4-day practical short course.
+
+
+Revision:
+    2011-04-20 17:43 -0300
